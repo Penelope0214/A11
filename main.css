@@ -72,14 +72,20 @@ main h3 {
 a:hover, a:focus {
 	font-style: italic;
 }
+	blockquote{
+		font-style: italic;
+	}
 
 /* the styles for the footer */
-footer p {
-	 color:solid #3931420; ;
-	text-align: center;
-	
-}
+footer  {
+	 background-color: #3931420; ;
 
+}
+footer p{
+	text align: center;
+	color:white;
+	padding-top:1em;
+	padding-bottom: 1em;
 /* the styles for the section */
 main {
 	clear: left;
