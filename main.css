@@ -1,17 +1,17 @@
 /* the styles for the elements */
+*{
+	marging: 0;
+	padding: 0;
+}
 
 body {
 	font-family: Arial, Helvetica, sans-serif;
    	font-size: 100%;
 	width: 600px;	
-	margin-top: 0;
-	margin-bottom: 0;
-	margin-left: auto;
- 	marging-right: auto;
-	border: 3px; 
-	border: solid #931420;
+	margin: 0 auto;
+	border: #931420 3px solid;
 	background-color: #fffded;
-	float: right;
+	
 	
 }
 
@@ -19,16 +19,19 @@ body {
 <link rel="stylesheet" href="index.html">
 
 /* the styles for the header */
-header img {
-	border: solid 3931420;
-	float: left;
+header {
+	padding-top: 1.5em;
+	paddin-bottom 2em;
+	background image: linear-gradient(30deg,#f6bb73,#f6bb73,white,#fb6b73,#fbb73);
 	
 <style>
 	
+header h1{
+	border-bottom:931420 3px solid;
+	}
 header h2{
 font size:170%;
 color: #800000;
-text-indent:30px;
 	}
 header h3 {
 	font-size: 130%;
