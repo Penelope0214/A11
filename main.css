@@ -1,4 +1,5 @@
 /* the styles for the elements */
+<html lang="en" style= "background-color: white">
 body {
 	font-family: Arial, Helvetica, sans-serif;
    	font-size: 100%;
@@ -45,6 +46,8 @@ main {
 }
 main h1 {
 	font-size: 150%;
+	border-bottom-style:
+	border-top-style:
 }
 main h2 {
 	font-size: 130%;
