@@ -24,6 +24,7 @@ header img {
 <style>
 	
 header h2{
+border: solid 3931420;
 font size:170%;
 color: #800000;
 text-indent:30px;
@@ -46,8 +47,8 @@ main {
 }
 main h1 {
 	font-size: 150%;
-	border-bottom-style:
-	border-top-style:
+	border-bottom-style:solid 3931420;
+	border-top-style:solid 3931420;
 }
 main h2 {
 	font-size: 130%;
