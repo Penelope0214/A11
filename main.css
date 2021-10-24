@@ -40,6 +40,8 @@ header h3 {
 	}
 	header img {
 	float: left;
+	padding-left:30px;
+	padding-right:30px;
 }
 
 .shadow {
@@ -48,18 +50,24 @@ header h3 {
 /* the styles for the section */
 main {
 	clear: left;
+	paddin-left:30px;
+	padding-right:30px;
+
 }
 main h1 {
 	font-size: 150%;
-	border-bottom-style:solid #3931420;
-	border-top-style:solid #3931420;
+	border-bottom:#3931420 3px solid;
+	border-top: #3931420 3px solid;
 }
 main h2 {
 	font-size: 130%;
 	color: #800000;
+	padding-top:.5em;
+	padding-bottom: .25em;
 }
 main h3 {
 	font-size: 105%;
+	padding-bottom: .25em
 }
 a:hover, a:focus {
 	font-style: italic;
